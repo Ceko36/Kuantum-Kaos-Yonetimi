@@ -1,0 +1,2 @@
+Kuantum Kaos Yönetimi JavaScript sürümünü Node.js üzerinde basit bir konsol uygulaması olarak kurdum; soyut KuantumNesnesi sınıfı ve kritik nesneler için AcilDurumSogutması metodunu içeren küçük bir sınıf hiyerarşisi yazdım, tüm nesneleri List<KuantumNesnesi> mantığıyla dizide saklayıp sonsuz menü döngüsünde rastgele nesne ekleme, durum listeleme, analiz ve soğutma adımlarını readline arayüzüyle yönettim, stabilite düşüşlerinde özel KuantumCokusuException fırlatıp yakalandığında sistemi kapatarak senaryonun gerektirdiği davranışı sağladım.
+
